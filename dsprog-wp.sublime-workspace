@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"create_function"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/dsprog/style.css",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/dsprog/rtl.css",
+		"/C/Users/maria/Desktop/functions.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/dsprog/functions.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentyeleven/editor-style.css",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentyten/index.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/dsprog/index.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentyten/header.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/dsprog/header.php",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentyten/rtl.css",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentyten/editor-style.css",
+		"/C/xampp/htdocs/dsprog2/wp-content/themes/twentytwelve/editor-style.css",
+		"/C/xampp/htdocs/dsprog/app/View/Contents/admin_add.ctp",
+		"/C/xampp/htdocs/dsprog/app/Model/Content.php",
+		"/C/xampp/htdocs/dsprog/app/Config/bootstrap.php",
+		"/C/xampp/htdocs/dsprog/app/Controller/AppController.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/dsprog/app/View/Layouts/admin.ctp",
+		"/C/xampp/htdocs/dsprog/app/Controller/ContentsController.php",
+		"/C/xampp/htdocs/dsprog/app/View/Elements/editor.ctp",
+		"/C/xampp/htdocs/hdantenas/adm/noticia_add.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Ckeditor/README.md",
+		"/C/xampp/htdocs/dsprog/app/Config/routes.php",
+		"/C/xampp/htdocs/dsprog/app/Config/database.php",
+		"/C/xampp/htdocs/dsprog/app/View/Contents/admin_index.ctp",
+		"/C/xampp/htdocs/dsprog/app/Controller/PagesController.php",
+		"/C/xampp/htdocs/dsprog/app/Plugin/TinyMCE/readme.md",
+		"/C/xampp/htdocs/dsprog/app/Plugin/TinyMCE/View/Helper/TinyMCEHelper.php",
+		"/C/xampp/htdocs/dsprog/app/Plugin/TinyMCE/webroot/js/tiny_mce/tiny_mce.js",
+		"/C/xampp/apache/conf/extra/httpd-default.conf",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/xampp/htdocs/dsprog/app/index.php",
+		"/C/xampp/htdocs/dsprog/app/Config/core.php",
+		"/C/xampp/htdocs/dsprog/app/Config/Schema/dsprog.sql",
+		"/C/xampp/htdocs/dsprog/app/View/Helper/MenuHelper.php",
+		"/C/Users/maria/Desktop/dsprog.sql",
+		"/C/xampp/htdocs/oop5/composer.json",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Model/NodesAppModel.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Model/Node.php",
+		"/C/xampp/htdocs/dsprog/app/Model/User.php",
+		"/C/xampp/htdocs/dsprog/app/Model/Attachment.php",
+		"/C/xampp/htdocs/dsprog/app/Controller/UsersController.php",
+		"/C/xampp/htdocs/dsprog/app/View/Users/admin_add.ctp",
+		"/C/xampp/htdocs/dsprog/app/View/Users/admin_edit.ctp",
+		"/C/xampp/htdocs/dsprog/app/View/Users/admin_index.ctp",
+		"/C/xampp/htdocs/dsprog/app/View/Users/admin_view.ctp",
+		"/C/xampp/htdocs/dsprog/app/Config/Schema/dsprog_alt.sql",
+		"/C/xampp/htdocs/dsprog/index.php",
+		"/C/xampp/htdocs/croogo/.htaccess",
+		"/C/xampp/htdocs/dsprog/.htaccess",
+		"/C/xampp/htdocs/dsprog/app/.git/config",
+		"/C/xampp/htdocs/dsprog/app/.git/HEAD",
+		"/C/xampp/htdocs/dsprog/app/.git/description",
+		"/C/xampp/htdocs/dsprog/app/.git/index",
+		"/C/xampp/htdocs/dsprog/app/.git/packed-refs",
+		"/C/xampp/htdocs/dsprog/app/webroot/.htaccess",
+		"/C/xampp/htdocs/dsprog/app/View/Users/add.ctp",
+		"/C/xampp/htdocs/croogo/app/Plugin/Users/Controller/UsersController.php",
+		"/C/xampp/htdocs/dsprog/Dsprog/Config/database.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Users/Controller/RolesController.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Controller/NodesController.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/View/Nodes/admin_create.ctp",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/View/Helper/NodesHelper.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Config/bootstrap.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Config/routes.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Croogo/Config/croogo_bootstrap.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Croogo/Controller/CroogoAppController.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Croogo/Config/bootstrap.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Croogo/Model/CroogoAppModel.php",
+		"/C/xampp/htdocs/dsprog/app/Controller/ControlesController.php",
+		"/C/xampp/htdocs/dsprog/app/Controller/PortfolioController.php",
+		"/C/xampp/htdocs/croogo/app/Plugin/Nodes/Controller/NodesAppController.php",
+		"/C/xampp/htdocs/croogo-1.5.1/app/Plugin/Nodes/Controller/NodesController.php",
+		"/C/xampp/htdocs/croogo-1.5.1/app/Controller/AppController.php",
+		"/C/xampp/htdocs/croogo-1.5.1/app/Plugin/Croogo/View/Layouts/admin_full.ctp",
+		"/C/xampp/htdocs/croogo-1.5.1/app/Plugin/Croogo/View/Helper/CroogoHtmlHelper.php",
+		"/C/xampp/htdocs/dsprog/app/View/portfolio/admin_add.ctp",
+		"/C/xampp/htdocs/croogo-1.5.1/app/Config/Schema/sql/croogo.sql",
+		"/C/xampp/htdocs/dsprog/app/.htaccess",
+		"/C/Users/maria/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/xampp/htdocs/oop5/index.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"autoload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true
+}
